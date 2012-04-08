@@ -2,6 +2,15 @@ Please Note:
 
 - The zip file is 1.8GB
 - The image is currently hosted at Amazon S3
+- Please consider using a bit torrent file to help with downloads, reduce my bandwidth bill
+and overall improve everyone's experience
+
+Using your favorite bit torrent client point to 
+
+https://s3.amazonaws.com/VM-Image-Django-Market/Ubuntu1104-steve.zip?torrent
+
+Give it a minute or so to start with amazon, then the download should go fairly smoothly. I'm seeding the file as well
+so you should always have at least two peers.
 
 -Know Bugs
   There is a known bug with shop creation
