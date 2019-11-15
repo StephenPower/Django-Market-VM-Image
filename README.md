@@ -7,7 +7,7 @@ and overall improve everyone's experience
 
 Using your favorite bit torrent client point to 
 
-https://s3.amazonaws.com/VM-Image-Django-Market/Ubuntu1104-steve.zip?torrent
+**message me if you want access to the image**
 
 Give it a minute or so to start with amazon, then the download should go fairly smoothly. I'm seeding the file as well
 so you should always have at least two peers.
